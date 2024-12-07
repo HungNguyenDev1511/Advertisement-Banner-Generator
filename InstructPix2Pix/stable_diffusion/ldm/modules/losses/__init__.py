@@ -1,0 +1,1 @@
+from InstructPix2Pix.stable_diffusion.ldm.modules.losses.contperceptual import LPIPSWithDiscriminator
